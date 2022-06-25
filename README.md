@@ -1,4 +1,7 @@
 # 타입스크립트 기초
+
+>https://ahnheejong.gitbook.io/ts-for-jsdev/
+
 ## 타입지정
 
 오브젝트 형
